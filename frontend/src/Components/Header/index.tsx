@@ -10,8 +10,9 @@ function Header() {
             <img src={header} alt="DSMeta" />
             <h1>DSMeta</h1>
             <p>
-              Desenvolvido por
-              <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+              Desenvolvido por 
+              <a href="https://www.linkedin.com/in/kevin-soares-dev/"> Kevin Soares </a>
+               durante a semana Spring React @DevSuperior
             </p>
         </div>
     </header>
